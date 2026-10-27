@@ -1,0 +1,169 @@
+{
+  "at": "2026-10-26T17:21:39.4325183+08:00",
+  "results": [
+    {
+      "name": "battery query matches device capture",
+      "passed": true
+    },
+    {
+      "name": "response routing",
+      "passed": true
+    },
+    {
+      "name": "left and right battery capture",
+      "passed": true
+    },
+    {
+      "name": "unknown battery is distinct from zero",
+      "passed": true
+    },
+    {
+      "name": "truncated packet rejected",
+      "passed": true
+    },
+    {
+      "name": "other vendor rejected",
+      "passed": true
+    },
+    {
+      "name": "odd battery payload rejected",
+      "passed": true
+    },
+    {
+      "name": "error packet distinct from success",
+      "passed": true
+    },
+    {
+      "name": "Bluetrum EQ capture decoded",
+      "passed": true
+    },
+    {
+      "name": "all EQ bytes survive round trip including filter and Q",
+      "passed": true
+    },
+    {
+      "name": "single band write matches captured values",
+      "passed": true
+    },
+    {
+      "name": "EQ writes fit the PILL ATT limit",
+      "passed": true
+    },
+    {
+      "name": "truncated EQ rejected",
+      "passed": true
+    },
+    {
+      "name": "oversized EQ rejected",
+      "passed": true
+    },
+    {
+      "name": "non-finite Q rejected",
+      "passed": true
+    },
+    {
+      "name": "invalid frequency rejected",
+      "passed": true
+    },
+    {
+      "name": "positive pregain rejected",
+      "passed": true
+    },
+    {
+      "name": "excess band gain rejected",
+      "passed": true
+    },
+    {
+      "name": "voice step 9 matches hardware capture",
+      "passed": true
+    },
+    {
+      "name": "voice step 10 matches hardware capture",
+      "passed": true
+    },
+    {
+      "name": "one PILL discovered without a hardcoded address",
+      "passed": true
+    },
+    {
+      "name": "hardware identity confirmed",
+      "passed": true
+    },
+    {
+      "name": "battery EQ and touch read from hardware",
+      "passed": true
+    },
+    {
+      "name": "gain changed and read back",
+      "passed": true
+    },
+    {
+      "name": "gain original restored and verified",
+      "passed": true
+    },
+    {
+      "name": "preset changed and read back",
+      "passed": true
+    },
+    {
+      "name": "preset original restored and verified",
+      "passed": true
+    },
+    {
+      "name": "parametric EQ changed and read back",
+      "passed": true
+    },
+    {
+      "name": "parametric EQ original restored and verified",
+      "passed": true
+    },
+    {
+      "name": "touch changed and read back",
+      "passed": true
+    },
+    {
+      "name": "touch original restored and verified",
+      "passed": true
+    },
+    {
+      "name": "voice volume changed and read back",
+      "passed": true
+    },
+    {
+      "name": "voice volume original restored and verified",
+      "passed": true
+    },
+    {
+      "name": "multipoint changed and read back",
+      "passed": true
+    },
+    {
+      "name": "multipoint original restored and verified",
+      "passed": true
+    },
+    {
+      "name": "PILL playback endpoint found",
+      "passed": true
+    },
+    {
+      "name": "Windows output volume changed and read back",
+      "passed": true
+    },
+    {
+      "name": "Windows output volume restored",
+      "passed": true
+    },
+    {
+      "name": "Windows microphone volume changed and read back",
+      "passed": true
+    },
+    {
+      "name": "Windows microphone volume restored",
+      "passed": true
+    },
+    {
+      "name": "all original earbud settings restored",
+      "passed": true
+    }
+  ]
+}

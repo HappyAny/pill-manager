@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "at": "2026-10-26T17:50:08.5089067+08:00",
+  "width": 620,
+  "height": 660,
+  "minimumWidth": 540,
+  "minimumHeight": 540,
+  "files": [
+    "light-0.png",
+    "light-1.png",
+    "light-2.png",
+    "light-3.png",
+    "dark-0.png",
+    "dark-1.png",
+    "dark-2.png",
+    "dark-3.png",
+    "minimum-touch.png"
+  ],
+  "deviceAccess": false
+}

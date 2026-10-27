@@ -1,0 +1,7 @@
+{
+  "BleTransport.cs": true,
+  "GaiaProtocol.cs": true,
+  "PillController.cs": true,
+  "PillState.cs": true,
+  "WindowsAudio.cs": true
+}

@@ -1,0 +1,85 @@
+{
+  "at": "2026-10-26T17:52:10.0272768+08:00",
+  "results": [
+    {
+      "name": "battery query matches device capture",
+      "passed": true
+    },
+    {
+      "name": "response routing",
+      "passed": true
+    },
+    {
+      "name": "left and right battery capture",
+      "passed": true
+    },
+    {
+      "name": "unknown battery is distinct from zero",
+      "passed": true
+    },
+    {
+      "name": "truncated packet rejected",
+      "passed": true
+    },
+    {
+      "name": "other vendor rejected",
+      "passed": true
+    },
+    {
+      "name": "odd battery payload rejected",
+      "passed": true
+    },
+    {
+      "name": "error packet distinct from success",
+      "passed": true
+    },
+    {
+      "name": "Bluetrum EQ capture decoded",
+      "passed": true
+    },
+    {
+      "name": "all EQ bytes survive round trip including filter and Q",
+      "passed": true
+    },
+    {
+      "name": "single band write matches captured values",
+      "passed": true
+    },
+    {
+      "name": "EQ writes fit the PILL ATT limit",
+      "passed": true
+    },
+    {
+      "name": "truncated EQ rejected",
+      "passed": true
+    },
+    {
+      "name": "oversized EQ rejected",
+      "passed": true
+    },
+    {
+      "name": "non-finite Q rejected",
+      "passed": true
+    },
+    {
+      "name": "invalid frequency rejected",
+      "passed": true
+    },
+    {
+      "name": "positive pregain rejected",
+      "passed": true
+    },
+    {
+      "name": "excess band gain rejected",
+      "passed": true
+    },
+    {
+      "name": "voice step 9 matches hardware capture",
+      "passed": true
+    },
+    {
+      "name": "voice step 10 matches hardware capture",
+      "passed": true
+    }
+  ]
+}

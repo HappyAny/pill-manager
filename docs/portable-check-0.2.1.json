@@ -1,0 +1,39 @@
+{
+  "version": "0.2.1",
+  "at": "2026-10-26T19:14:28.686819+08:00",
+  "exe_sha256": "a77144ffafdaa97d9f9faf7a4f86d7d7761d5b9a3c8a880b4374b14c3f4410fd",
+  "exit_code": 0,
+  "elapsed_seconds": 10.8,
+  "only_exe_copied": true,
+  "dotnet_root_empty": true,
+  "host_trace_recorded": true,
+  "host_confirmed_self_contained": true,
+  "framework_dependent": false,
+  "extracted_native_files": [
+    "D3DCompiler_47_cor3.dll",
+    "PenImc_cor3.dll",
+    "PresentationNative_cor3.dll",
+    "vcruntime140_cor3.dll",
+    "wpfgfx_cor3.dll"
+  ],
+  "icon_sizes": [
+    16,
+    20,
+    24,
+    32,
+    40,
+    48,
+    64,
+    128,
+    256
+  ],
+  "icon_groups": 1,
+  "window_icon_loaded": true,
+  "embedded_license_documents": 7,
+  "previews_generated": 9,
+  "ble_scan_completed": true,
+  "audio_enumeration_completed": true,
+  "discovered_pills": 1,
+  "audio_endpoints": 2,
+  "hardware_writes": false
+}
